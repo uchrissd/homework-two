@@ -55,8 +55,14 @@
 }
 
 .form {
-    color: lightgray;
-    font-family: sans-serif;
-    padding: 10px;
-    margin-top: 30px;
-    margin-bottom: 50px;
+  color: lightgray;
+  font-family: sans-serif;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.portfolio-image {
+  width: 200px;
+  height: 200px;
+}
