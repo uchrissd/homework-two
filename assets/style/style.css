@@ -21,6 +21,11 @@
 .name {
   background-color: #4aaaa5;
   color: white;
+  margin-left: 50px;
+  margin-top: -10px;
+  font-size: 30px;
+  padding: 20px;
+  margin-bottom: -10px;
 }
 
 .portfolio-list {
@@ -30,8 +35,8 @@
 }
 
 .a {
-  text-decoration: none !important;
-  color: lightgray;
+  text-decoration-style: none;
+  color: black;
 }
 
 .content-box {
